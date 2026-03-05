@@ -1,0 +1,22 @@
+{
+    "name": "너구리 여행기",
+    "short_name": "travel_planner",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+    {
+      "src": "icons/raccoon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/raccoon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
